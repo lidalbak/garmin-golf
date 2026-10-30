@@ -1,0 +1,11 @@
+build/
+__pycache__/
+*.py[cod]
+.DS_Store
+.env
+.env.*
+*.pem
+*.key
+*.der
+.venv/
+reference/

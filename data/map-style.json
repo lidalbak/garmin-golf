@@ -1,0 +1,14 @@
+{
+  "background": "546D2F",
+  "grass": "6B8035",
+  "rough": "607530",
+  "forest": "385528",
+  "water": "4C9CB1",
+  "fairway": "7BA540",
+  "tee": "82AD49",
+  "bunker": "D9CC9C",
+  "green": "9DC35A",
+  "treeShadow": "2E4820",
+  "treeCanopy": ["507830", "608139", "6B8839"],
+  "treeHighlight": ["7B963F", "6F913B"]
+}
